@@ -1,0 +1,41 @@
+.r3df-cm-marker {
+    display: none;
+}
+
+.r3df-cm-t-twentyeleven.r3df-cm-l-twentyeleven_credits #r3df-copyright-message,
+.r3df-cm-t-twentythirteen.r3df-cm-l-twentythirteen_credits #r3df-copyright-message {
+    margin-right: 2em;
+}
+
+.r3df-cm-t-twentysixteen.r3df-cm-l-twentysixteen_credits #r3df-copyright-message {
+    float: left;
+}
+
+.r3df-cm-t-twentytwelve.r3df-cm-l-twentytwelve_credits .site-info > a[href="https://wordpress.org/"],
+.r3df-cm-t-twentyfourteen.r3df-cm-l-twentyfouteen_credits .site-info > a[href="https://wordpress.org/"],
+.r3df-cm-t-twentyfifteen.r3df-cm-l-twentyfifteen_credits .site-info > a[href="https://wordpress.org/"] {
+    float: right;
+}
+
+.r3df-cm-t-twentysixteen.r3df-cm-l-twentysixteen_credits .site-info {
+    text-align: right;
+    width: 100%;
+}
+
+.r3df-cm-t-twentyeleven.r3df-cm-hide-pbw .site-info > a,
+.r3df-cm-t-twentytwelve.r3df-cm-hide-pbw .site-info > a,
+.r3df-cm-t-twentythirteen.r3df-cm-hide-pbw .site-info > a,
+.r3df-cm-t-twentyfourteen.r3df-cm-hide-pbw .site-info > a,
+.r3df-cm-t-twentyfifteen.r3df-cm-hide-pbw .site-info > a,
+.r3df-cm-t-twentysixteen.r3df-cm-hide-pbw .site-info > .site-title,
+.r3df-cm-t-twentysixteen.r3df-cm-hide-pbw .site-info > a {
+    display: none;
+}
+
+.r3df-cm-t-twentyfifteen.r3df-cm-l-wp_footer #r3df-copyright-message {
+    clear: both;
+    color: #999999;
+    display: block;
+    margin-top: 15px;
+    text-align: center;
+}
